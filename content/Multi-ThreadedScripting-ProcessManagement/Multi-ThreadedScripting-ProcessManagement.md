@@ -120,7 +120,7 @@ In the first for loop , you simply output the variable `$i` which will range fro
 
 >**Note:**
 >>
->> You can use the `$(...)` syntax anywhere within a command line to start a subshell: it is a very poyourful and versatile way to code subshells directly into other command lines!
+>> You can use the `$(...)` syntax anywhere within a command line to start a subshell: it is a very powerful and versatile way to code subshells directly into other command lines!
 
 In the second for loop, you have changed only one character. Instead of using `;` – an **EOL** (end of line) Bash syntax idiom which terminates a given command (you may think about it like Enter/Execute/Go ahead), you used `&`.
 
